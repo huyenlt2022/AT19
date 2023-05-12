@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]" parallel="classes">
+  <test thread-count="2" name="D:/Work/AT19_MavenProject(failed)" parallel="classes">
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="url" value="https://tiki.vn/"/>
+    <classes>
+      <class name="test.WebDriver_Command_Special_Events">
+        <methods>
+          <include name="tearDown"/>
+          <include name="activeKey"/>
+          <include name="openBrowser"/>
+          <include name="initBrowser"/>
+        </methods>
+      </class> <!-- test.WebDriver_Command_Special_Events -->
+    </classes>
+  </test> <!-- D:/Work/AT19_MavenProject(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
