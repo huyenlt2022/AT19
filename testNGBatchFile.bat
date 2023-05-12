@@ -1,1 +1,1 @@
-mvn clean test -Dtest=testng.xml
+mvn -P ExecuteTestSuite test
