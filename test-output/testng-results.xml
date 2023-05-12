@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="155945" started-at="2023-03-26T13:54:18Z" finished-at="2023-03-26T13:56:54Z">
+  <suite name="All Test Suite" duration-ms="32709" started-at="2023-05-12T03:57:29Z" finished-at="2023-05-12T03:58:02Z">
     <groups>
     </groups>
-    <test name="D:/Work/AT19_MavenProject" duration-ms="155945" started-at="2023-03-26T13:54:18Z" finished-at="2023-03-26T13:56:54Z">
+    <test name="D:/Work/AT19_MavenProject" duration-ms="32709" started-at="2023-05-12T03:57:29Z" finished-at="2023-05-12T03:58:02Z">
       <class name="test.TC_Login">
-        <test-method status="PASS" signature="initBrowser(java.lang.String)[pri:0, instance:test.TC_Login@7a79be86]" name="initBrowser" is-config="true" duration-ms="2755" started-at="2023-03-26T13:54:18Z" finished-at="2023-03-26T13:54:21Z">
+        <test-method status="PASS" signature="initBrowser(java.lang.String)[pri:0, instance:test.TC_Login@1e643faf]" name="initBrowser" is-config="true" duration-ms="5935" started-at="2023-05-12T03:57:29Z" finished-at="2023-05-12T03:57:35Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowser -->
-        <test-method status="PASS" signature="openBrowser()[pri:0, instance:test.TC_Login@7a79be86]" name="openBrowser" is-config="true" duration-ms="149854" started-at="2023-03-26T13:54:21Z" finished-at="2023-03-26T13:56:50Z">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:test.TC_Login@1e643faf]" name="openBrowser" is-config="true" duration-ms="24116" started-at="2023-05-12T03:57:35Z" finished-at="2023-05-12T03:57:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method status="PASS" signature="TC_01_Login()[pri:0, instance:test.TC_Login@7a79be86]" name="TC_01_Login" duration-ms="2628" started-at="2023-03-26T13:56:50Z" finished-at="2023-03-26T13:56:53Z">
+        <test-method status="PASS" signature="TC_01_Login()[pri:0, instance:test.TC_Login@1e643faf]" name="TC_01_Login" duration-ms="1978" started-at="2023-05-12T03:57:59Z" finished-at="2023-05-12T03:58:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_01_Login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.TC_Login@7a79be86]" name="tearDown" is-config="true" duration-ms="690" started-at="2023-03-26T13:56:53Z" finished-at="2023-03-26T13:56:54Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.TC_Login@1e643faf]" name="tearDown" is-config="true" duration-ms="662" started-at="2023-05-12T03:58:01Z" finished-at="2023-05-12T03:58:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
